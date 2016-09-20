@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/add_person_menu"
+            android:title="添加员工"
+            >
+        </item>
+        <item
+            android:id="@+id/search_person_menu"
+            android:title="搜索员工"/>
+</menu>
